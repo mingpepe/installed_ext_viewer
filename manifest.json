@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Extension Manifest Viewer",
+  "version": "1.0",
+  "description": "View manifest details of installed extensions",
+  "permissions": ["management"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
